@@ -47,7 +47,7 @@ solid Exported from Blender-3.4.0
 facet normal 0.000000 0.000000 1.000000
 outer loop
 vertex 1.000000 0.000000 0.000000
-vertex 0.500000 2.000000 0.000000
+vertex 0.500000 1.500000 0.000000
 vertex 0.000000 0.000000 0.000000
 endloop
 endfacet
@@ -55,7 +55,7 @@ facet normal 0.000000 0.000000 1.000000
 outer loop
 vertex 1.000000 2.000000 0.000000
 vertex 0.000000 2.000000 0.000000
-vertex 0.500000 0.000000 0.000000
+vertex 0.500000 0.500000 0.000000
 endloop
 endfacet
 facet normal 0.000000 0.000000 1.000000
@@ -129,4 +129,5 @@ vertex 6.500000 0.000000 0.000000
 endloop
 endfacet
 endsolid Exported from Blender-3.4.0
+
 ```
